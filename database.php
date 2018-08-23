@@ -1,5 +1,5 @@
 <?php
-	$conn = new mysqli("localhost", "root", "snowball", "brettipedia");
+	$conn = new mysqli("localhost", "root", "password", "mydatabase");
 	
 	// Check connection
 	if ($conn->connect_error) {
