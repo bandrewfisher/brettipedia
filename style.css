@@ -1,0 +1,15 @@
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 10px;
+}
+
+.navbar li {
+	float: left;
+}
+
+.navbar li a {
+	display: block;
+	margin-right: 5px;
+	text-decoration: none;
+}
